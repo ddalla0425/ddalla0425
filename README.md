@@ -1,18 +1,18 @@
 ## Hi there 👋
-![딸라움짤](https://github.com/user-attachments/assets/5782c175-09b2-44cb-bd9f-b700af1d1ea8)
+<p align='center'>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Da%20Sol,%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer&descAlignY=60&descAlign=67"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ddalla+developer;github+design+ing..)](https://git.io/typing-svg)
-<!--
-**ddalla0425/ddalla0425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'  >
+  <img style="width: 100px; border-radius: 10px;" src="https://github.com/user-attachments/assets/5782c175-09b2-44cb-bd9f-b700af1d1ea8"/>
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+  <img src="https://readme-typing-svg.demolab.com/?lines=ddalla+developer;github+design+ing.."/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
