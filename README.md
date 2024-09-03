@@ -24,6 +24,12 @@
 
 <br>
 
+<div>
+  주로 사용하는 스킬
+</div>
+
+<br>
+
 <table style="width:100%">
   <tbody>
     <tr>
@@ -51,16 +57,12 @@
         <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
         <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
         <img alt="Swagger Ui" src="https://img.shields.io/badge/Swagger_Ui-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
-        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
       </td>
     </tr>
     <tr>
       <th align="left">AI</th>
       <td>
-        <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=white"/>
         <img alt="Spring Ai" src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-        <img alt="Confi Ui" src="https://img.shields.io/badge/Confy_UI-black?style=for-the-badge&logo=confyui&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -69,15 +71,6 @@
         <img alt="MySQLDB" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
         <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
         <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <th align="left">Infrastructure</th>
-      <td>
-        <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        <img alt="Amazon" src="https://img.shields.io/badge/Amazon_Web_Service-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900" />
-        <img alt="Docker" src="https://img.shields.io/badge/docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white" />
-        <img alt="Github Actions" src="https://img.shields.io/badge/github%20actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
       </td>
     </tr>
     <tr>
@@ -101,6 +94,48 @@
     </tr>
   </tbody>
 </table>
+
+<br>
+
+<div>
+  경험만 해본 스킬
+</div>
+
+<br>
+
+<table style="width:100%">
+  <tbody>
+    <tr>
+      <th align="left">Backend</th>
+      <td>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <th align="left">AI</th>
+      <td>
+        <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=white"/>
+        <img alt="Confi Ui" src="https://img.shields.io/badge/Confy_UI-black?style=for-the-badge&logo=confyui&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <th align="left">Infrastructure</th>
+      <td>
+        <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img alt="Amazon" src="https://img.shields.io/badge/Amazon_Web_Service-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900" />
+        <img alt="Docker" src="https://img.shields.io/badge/docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white" />
+        <img alt="Github Actions" src="https://img.shields.io/badge/github%20actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<h2 align="center" style="width:100%">
+   🌡️ Github Status
+</h2>
 
 <br>
 
