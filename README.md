@@ -10,7 +10,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://readme-typing-svg.demolab.com/?lines=완벽함에+집착하지+않고+경험을+통해+성장하며,;넓은+시야를+가지고자+끊임없이+노력합니다!"/>
+  <strong>완벽함에 집착하지 않고 경험을 통해 성장하며, 넓은 시야를 가지고자 끊임없이 노력합니다!</strong>
 </p>
 
 <p align='center'>
