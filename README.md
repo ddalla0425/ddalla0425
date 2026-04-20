@@ -1,148 +1,55 @@
 ## Hi there 👋
 <p align='center'>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Da%20Sol,%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer&descAlignY=60&descAlign=67"/>
-</p>
-
-<p align='center'>
-  “ 안녕하세요 👋<br>
-   새로운 기술에 도전하며,<br> 
-   협업으로 성장하는 주니어 개발자, 김다솔입니다.”
-</p>
-
-<p align='center'>
-  <strong>완벽함에 집착하지 않고 경험을 통해 성장하며, 넓은 시야를 가지고자 끊임없이 노력합니다!</strong>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ha%20On,%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer&descAlignY=60&descAlign=67"/>
 </p>
 
 <p align='center'>
   <img style="width: 300px;" src="https://github.com/user-attachments/assets/34a29fed-9d92-4272-9379-18ad24909557"/>
 </p>
-<br>
 
-<h2 align="center" style="width:100%">
-   🛠️ SKill
-</h2>
+**"기록을 넘어 시스템으로 문제를 해결하고, 팀의 허들을 낮추는 개발자 김하온입니다."**
 
-<br>
+저는 반복되는 문제를 기록하고 자동화하여 **개발자 경험(DX)** 을 고도화하는 과정에 몰입합니다. <br/>
+단순한 기능 구현을 넘어 **FSD(Feature-Sliced Design)** 아키텍처를 통한 유지보수성 확보와 **AI 에이전트**를 활용한 생산성 향상을 지향합니다.
 
-<div>
-  주로 사용하는 스킬
-</div>
+---
 
-<br>
+## 🛠 Tech Stack
 
-<table style="width:100%">
-  <tbody>
-    <tr>
-      <th align="left">Frontend</th>
-      <td>
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-        <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
-        <img alt="React" src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-        <img alt="Redux" src="https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white">
-        <img alt="Axios" src="https://img.shields.io/badge/Axios-ffffff?style=for-the-badge&logo=axios&logoColor=671ddf">
-        <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
-        <img alt="Chakra-Ui" src="https://img.shields.io/badge/Chakra_Ui-41E0FD?style=for-the-badge&logo=chakraui&logoColor=white" />
-        <img alt="React-Hook-Form" src="https://img.shields.io/badge/React_Hook_Form-ec5990?style=for-the-badge&logo=React-Hook-Form&logoColor=white" />
-        <img alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-        <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <th align="left">Backend</th>
-      <td>
-        <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-        <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-        <img alt="JPA" src="https://img.shields.io/badge/JPA-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-        <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
-        <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
-        <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-        <img alt="Swagger Ui" src="https://img.shields.io/badge/Swagger_Ui-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <th align="left">AI</th>
-      <td>
-        <img alt="Spring Ai" src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <th align="left">DB</th>
-      <td>
-        <img alt="MySQLDB" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-        <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
-        <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <th align="left">Version Control & IDEs</th>
-      <td>
-        <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-1d63ed?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-      </td>
-    </tr>
-     <tr>
-      <th align="left">Collaboration Platforms</th>
-      <td>
-        <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" />
-        <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white" />
-        <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-        <img alt="Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
-        <img alt="ERD Cloud" src="https://img.shields.io/badge/ERD_Cloud-000000?style=for-the-badge&logo=erdcloud&logoColor=white" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+### 💻 Frontend & Infrastructure
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-262b37?style=for-the-badge&logo=zustand&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<br>
+### ⚙️ Backend & Serverless
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Java 21](https://img.shields.io/badge/Java_21-007396?style=for-the-badge&logo=Java&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
-<div>
-  경험만 해본 스킬
-</div>
+### 🤖 AI-Driven DX & Tools
+![Gemini CLI](https://img.shields.io/badge/AI_Code_Agents-4B32C3?style=for-the-badge&logo=robot&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)
 
-<br>
+---
 
-<table style="width:100%">
-  <tbody>
-    <tr>
-      <th align="left">Backend</th>
-      <td>
-        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <th align="left">AI</th>
-      <td>
-        <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=white"/>
-        <img alt="Confi Ui" src="https://img.shields.io/badge/Confy_UI-black?style=for-the-badge&logo=confyui&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <th align="left">Infrastructure</th>
-      <td>
-        <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        <img alt="Amazon" src="https://img.shields.io/badge/Amazon_Web_Service-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900" />
-        <img alt="Docker" src="https://img.shields.io/badge/docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white" />
-        <img alt="Github Actions" src="https://img.shields.io/badge/github%20actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+## 📂 Featured Projects
 
-<br>
+### [NA 혼자 쓴다](https://github.com/ddalla0425/project-budget-book)
+> **FSD 기반 Serverless 수동 가계부 서비스 (진행 중)**
+- **Problem**: 자동 가계부의 회계적 오류(이중 지출 인식) 해결 및 1인 개발 복잡도 증가
+- **Solution**: **FSD 아키텍처** 도입으로 관심사 분리, **Supabase Edge Function** 활용한 Serverless 인프라 구축, **AI CLI 커밋 파이프라인** 설계로 DX 극대화
 
-<h2 align="center" style="width:100%">
-   🌡️ Github Status
-</h2>
+### [소리손순](https://github.com/sign-muscat)
+> **수어 및 구화 학습용 AI 게임 서비스 (팀 프로젝트 / 팀장)**
+- **Key**: **Spring AI** 기반 텍스트 유사도 측정 모델 도입, Python(Vision AI)과 Java(NLP) 서버 부하 분산 아키텍처 설계
 
-<br>
+### [스마트 메일 자동화 파이프라인](https://ddalla0425.notion.site/?p=33d27e1365db804d8d2df82a21e56b7b&pm=s)
+> **로컬 인프라 기반 스팸 필터링 시스템**
+- **Key**: **Docker** 기반 n8n 구축, **Cloudflare Tunnel**을 활용한 안전한 Webhook 통신 환경 설계
 
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddalla0425)](https://github.com/anuraghazra/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddalla0425)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-</div>
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ddalla0425&show_icons=true&theme=radical" alt="Dasol's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddalla0425&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+📫 **Contact:** [Email](mailto:ddalla0425@gmail.com) | [Notion Portfolio](https://ddalla0425.notion.site)
 
