@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align='center'>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ha%20On,%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Junior%20Developer&descAlignY=60&descAlign=67"/>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ha%20On,%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Growth%20Recorder&descAlignY=60&descAlign=67"/>
 </p>
 
 <p align='center'>
